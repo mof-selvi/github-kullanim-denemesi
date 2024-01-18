@@ -9,15 +9,15 @@ git clone https://github.com/mof-selvi/github-kullanim-denemesi.git
 ```
 
 
-Veya repoya bağlan:
-```
-git remote add origin https://github.com/mof-selvi/github-kullanim-denemesi.git
-```
-
-
 Proje dizinine git:
 ```
 cd github-kullanim-denemesi/
+```
+
+
+Origin'e ekle:
+```
+git remote add origin https://github.com/mof-selvi/github-kullanim-denemesi.git
 ```
 
 
