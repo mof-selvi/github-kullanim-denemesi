@@ -8,6 +8,11 @@ Repoyu klonla:
 git clone https://github.com/mof-selvi/github-kullanim-denemesi.git
 ```
 
+Veya dizini repoya çevir:
+```
+git init
+```
+
 
 Proje dizinine git:
 ```
