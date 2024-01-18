@@ -9,6 +9,12 @@ git clone https://github.com/mof-selvi/github-kullanim-denemesi.git
 ```
 
 
+Veya repoya bağlan:
+```
+git remote add origin https://github.com/mof-selvi/github-kullanim-denemesi.git
+```
+
+
 Proje dizinine git:
 ```
 cd github-kullanim-denemesi/
@@ -24,6 +30,12 @@ git add .
 Commit'le:
 ```
 git commit -m "ilk commitimiz"
+```
+
+
+Pull:
+```
+git pull origin main
 ```
 
 
