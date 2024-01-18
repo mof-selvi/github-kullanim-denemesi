@@ -21,13 +21,9 @@ cd github-kullanim-denemesi/
 ```
 
 
-Dosyaları ekle:
+Dosyaları ekle ve güncelle:
 ```
 git add .
-```
-
-Veya güncelle:
-```
 git update-index --again
 ```
 
