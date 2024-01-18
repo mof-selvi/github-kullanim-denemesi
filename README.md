@@ -26,6 +26,11 @@ Dosyaları ekle:
 git add .
 ```
 
+Veya güncelle:
+```
+git update-index --again
+```
+
 
 Commit'le:
 ```
