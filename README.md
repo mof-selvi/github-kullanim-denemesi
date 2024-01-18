@@ -5,7 +5,7 @@ Bu repo, stajyerimize git ve Github kullanımını göstermek için açılmışt
 
 Repoyu klonla:
 ```
-git clone hhttps://github.com/mof-selvi/github-kullanim-denemesi.git
+git clone https://github.com/mof-selvi/github-kullanim-denemesi.git
 ```
 
 
